@@ -20,12 +20,7 @@ library(shapviz)
 # library(shapper)
 
 # library(reticulate)
-# use_python("C:/Users/ousmane.yonaba/AppData/Local/Programs/Python/Python311/")
 # shapper::install_shap()
-
-# Example dataset
-#data(iris)
-#data(ames, package = "modeldata")
 
 lnames <- c("BT" = "Bagged Trees (BT)",
             #"DT" = "Decision Trees (DT)",
